@@ -25,11 +25,6 @@ collections:
 plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
-  - jekyll-relative-links
-  
-relative_links:
-  enabled: true
-  collections: false
   
 # Exclude some files/folders.
 exclude:
