@@ -31,7 +31,7 @@ create_indicators:
   previous_next_links: false
 create_pages:
   - filename: ''
-    folder: goals
+    folder: /goals
     layout: goals
     title: general.goals
   - filename: ''
@@ -44,7 +44,7 @@ create_pages:
     title: search.search
 custom_css: []
 custom_js:
-  - assets/js/custom.js
+  - /assets/js/custom.js
 data_edit_url: data
 data_fields:
   units: ''
