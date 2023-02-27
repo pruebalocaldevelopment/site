@@ -28,7 +28,7 @@ plugins:
   - jekyll-relative-links
   
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
   
 # Exclude some files/folders.
